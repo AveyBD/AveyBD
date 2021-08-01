@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JS, WordPress**
 
-- 📫 How to reach me **ddeb.me@gmail.com**
+- 📫 How to reach me **hello@debashish.dev**
 
 - ⚡ I love **Kacci, Mountains, Folk Sonog**
 
